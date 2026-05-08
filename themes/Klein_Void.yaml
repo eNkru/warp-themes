@@ -1,0 +1,25 @@
+name: Klein Void
+details: "darker"
+accent: "#ede6d3"
+background: "#0b0d14"
+foreground: "#ede6d3"
+
+terminal_colors:
+  bright:
+    black: "#92907a"
+    red: "#d97757"
+    green: "#bcc89c"
+    yellow: "#f0c880"
+    blue: "#a8bef0"
+    magenta: "#c8b4d4"
+    cyan: "#b0d0ed"
+    white: "#f5efde"
+  normal:
+    black: "#1a1c24"
+    red: "#f09890"
+    green: "#a6c080"
+    yellow: "#e8bc75"
+    blue: "#002fa7"
+    magenta: "#d49bb5"
+    cyan: "#9fc0e5"
+    white: "#cdc7b8"

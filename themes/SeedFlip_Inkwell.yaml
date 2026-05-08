@@ -1,0 +1,25 @@
+name: SeedFlip Inkwell
+details: "darker"
+accent: "#c8b8a0"
+background: "#0a0a0a"
+foreground: "#e8e4df"
+
+terminal_colors:
+  bright:
+    black: "#3d3d3d"
+    red: "#df9f9f"
+    green: "#9fdfb5"
+    yellow: "#dfd49f"
+    blue: "#9fbadf"
+    magenta: "#df9fdf"
+    cyan: "#9fdfdf"
+    white: "#ffffff"
+  normal:
+    black: "#050505"
+    red: "#cc6666"
+    green: "#66cc88"
+    yellow: "#ccbb66"
+    blue: "#6690cc"
+    magenta: "#cc66cc"
+    cyan: "#66cccc"
+    white: "#f3f1ee"

@@ -1,0 +1,25 @@
+name: Raycast Dark
+details: "darker"
+accent: "#cccccc"
+background: "#1a1a1a"
+foreground: "#ffffff"
+
+terminal_colors:
+  bright:
+    black: "#4c4c4c"
+    red: "#ff6363"
+    green: "#59d499"
+    yellow: "#ffc531"
+    blue: "#56c2ff"
+    magenta: "#cf2f98"
+    cyan: "#52eee5"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#ff5360"
+    green: "#59d499"
+    yellow: "#ffc531"
+    blue: "#56c2ff"
+    magenta: "#cf2f98"
+    cyan: "#52eee5"
+    white: "#ffffff"

@@ -1,0 +1,25 @@
+name: Whimsy
+details: "darker"
+accent: "#b3b0d6"
+background: "#29283b"
+foreground: "#b3b0d6"
+
+terminal_colors:
+  bright:
+    black: "#535178"
+    red: "#ef6487"
+    green: "#5eca89"
+    yellow: "#fdd877"
+    blue: "#65aef7"
+    magenta: "#aa7ff0"
+    cyan: "#43c1be"
+    white: "#ffffff"
+  normal:
+    black: "#535178"
+    red: "#ef6487"
+    green: "#5eca89"
+    yellow: "#fdd877"
+    blue: "#65aef7"
+    magenta: "#aa7ff0"
+    cyan: "#43c1be"
+    white: "#ffffff"

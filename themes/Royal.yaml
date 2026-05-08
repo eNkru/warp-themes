@@ -1,0 +1,25 @@
+name: Royal
+details: "darker"
+accent: "#524966"
+background: "#100815"
+foreground: "#514968"
+
+terminal_colors:
+  bright:
+    black: "#3e3a4a"
+    red: "#d5356c"
+    green: "#2cd946"
+    yellow: "#fde83b"
+    blue: "#90baf9"
+    magenta: "#a479e3"
+    cyan: "#acd4eb"
+    white: "#9e8cbd"
+  normal:
+    black: "#241f2b"
+    red: "#91284c"
+    green: "#23801c"
+    yellow: "#b49d27"
+    blue: "#6580b0"
+    magenta: "#674d96"
+    cyan: "#8aaabe"
+    white: "#524966"

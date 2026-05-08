@@ -1,0 +1,25 @@
+name: Kurokula
+details: "darker"
+accent: "#7a1c1c"
+background: "#141515"
+foreground: "#e0cfc2"
+
+terminal_colors:
+  bright:
+    black: "#515151"
+    red: "#ffc34c"
+    green: "#afffa5"
+    yellow: "#fff700"
+    blue: "#90dbff"
+    magenta: "#ad93ff"
+    cyan: "#ffcdb6"
+    white: "#ffffff"
+  normal:
+    black: "#333333"
+    red: "#c35a52"
+    green: "#78b3a9"
+    yellow: "#e1b917"
+    blue: "#5c91dd"
+    magenta: "#8b79a6"
+    cyan: "#867268"
+    white: "#e0cfc2"

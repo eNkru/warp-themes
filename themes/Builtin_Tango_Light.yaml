@@ -1,0 +1,25 @@
+name: Builtin Tango Light
+details: "lighter"
+accent: "#000000"
+background: "#ffffff"
+foreground: "#000000"
+
+terminal_colors:
+  bright:
+    black: "#555753"
+    red: "#ef2929"
+    green: "#7dd527"
+    yellow: "#d6c329"
+    blue: "#729fcf"
+    magenta: "#ad7fa8"
+    cyan: "#27d5d5"
+    white: "#eeeeec"
+  normal:
+    black: "#000000"
+    red: "#cc0000"
+    green: "#4e9a06"
+    yellow: "#c4a000"
+    blue: "#3465a4"
+    magenta: "#75507b"
+    cyan: "#06989a"
+    white: "#b9bdb5"

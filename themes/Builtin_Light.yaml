@@ -1,0 +1,25 @@
+name: Builtin Light
+details: "lighter"
+accent: "#000000"
+background: "#ffffff"
+foreground: "#000000"
+
+terminal_colors:
+  bright:
+    black: "#555555"
+    red: "#ff5555"
+    green: "#2fd92f"
+    yellow: "#bfbf15"
+    blue: "#5555ff"
+    magenta: "#ff55ff"
+    cyan: "#22cccc"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#bb0000"
+    green: "#00bb00"
+    yellow: "#bbbb00"
+    blue: "#0000bb"
+    magenta: "#bb00bb"
+    cyan: "#00bbbb"
+    white: "#bbbbbb"

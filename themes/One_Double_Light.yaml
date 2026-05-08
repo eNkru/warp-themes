@@ -1,0 +1,25 @@
+name: One Double Light
+details: "lighter"
+accent: "#1a1919"
+background: "#fafafa"
+foreground: "#383a43"
+
+terminal_colors:
+  bright:
+    black: "#0e131f"
+    red: "#ff3711"
+    green: "#00b90e"
+    yellow: "#ec9900"
+    blue: "#1065de"
+    magenta: "#e500d8"
+    cyan: "#00b4dd"
+    white: "#ffffff"
+  normal:
+    black: "#454b58"
+    red: "#f74840"
+    green: "#25a343"
+    yellow: "#cc8100"
+    blue: "#0087c1"
+    magenta: "#b50da9"
+    cyan: "#009ab7"
+    white: "#c5b2b3"

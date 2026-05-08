@@ -1,0 +1,25 @@
+name: IR Black
+details: "darker"
+accent: "#808080"
+background: "#000000"
+foreground: "#f1f1f1"
+
+terminal_colors:
+  bright:
+    black: "#7b7b7b"
+    red: "#fcb6b0"
+    green: "#cfffab"
+    yellow: "#ffffcc"
+    blue: "#b5dcff"
+    magenta: "#fb9cfe"
+    cyan: "#e0e0fe"
+    white: "#ffffff"
+  normal:
+    black: "#4f4f4f"
+    red: "#fa6c60"
+    green: "#a8ff60"
+    yellow: "#fffeb7"
+    blue: "#96cafe"
+    magenta: "#fa73fd"
+    cyan: "#c6c5fe"
+    white: "#efedef"

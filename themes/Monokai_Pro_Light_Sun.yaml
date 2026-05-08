@@ -1,0 +1,25 @@
+name: Monokai Pro Light Sun
+details: "lighter"
+accent: "#72696d"
+background: "#f8efe7"
+foreground: "#2c232e"
+
+terminal_colors:
+  bright:
+    black: "#a59c9c"
+    red: "#ce4770"
+    green: "#218871"
+    yellow: "#b16803"
+    blue: "#d4572b"
+    magenta: "#6851a2"
+    cyan: "#2473b6"
+    white: "#2c232e"
+  normal:
+    black: "#f8efe7"
+    red: "#ce4770"
+    green: "#218871"
+    yellow: "#b16803"
+    blue: "#d4572b"
+    magenta: "#6851a2"
+    cyan: "#2473b6"
+    white: "#2c232e"

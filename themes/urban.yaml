@@ -1,0 +1,25 @@
+name: urban
+details: "darker"
+accent: "#c0a79a"
+background: "#312e39"
+foreground: "#c0a79a"
+
+terminal_colors:
+  bright:
+    black: "#5c5865"
+    red: "#87404f"
+    green: "#74934e"
+    yellow: "#ae835a"
+    blue: "#615772"
+    magenta: "#854b64"
+    cyan: "#625464"
+    white: "#c0a79a"
+  normal:
+    black: "#33303b"
+    red: "#87404f"
+    green: "#74934e"
+    yellow: "#ae835a"
+    blue: "#615772"
+    magenta: "#854b64"
+    cyan: "#625464"
+    white: "#c0a79a"

@@ -1,0 +1,25 @@
+name: GitLab Light
+details: "lighter"
+accent: "#303030"
+background: "#fafaff"
+foreground: "#303030"
+
+terminal_colors:
+  bright:
+    black: "#303030"
+    red: "#a31700"
+    green: "#0a7f3d"
+    yellow: "#af551d"
+    blue: "#006cd8"
+    magenta: "#583cac"
+    cyan: "#00798a"
+    white: "#303030"
+  normal:
+    black: "#303030"
+    red: "#a31700"
+    green: "#0a7f3d"
+    yellow: "#af551d"
+    blue: "#006cd8"
+    magenta: "#583cac"
+    cyan: "#00798a"
+    white: "#303030"

@@ -1,0 +1,25 @@
+name: Vercel
+details: "darker"
+accent: "#f32882"
+background: "#101010"
+foreground: "#fafafa"
+
+terminal_colors:
+  bright:
+    black: "#a8a8a8"
+    red: "#ff8080"
+    green: "#4be15d"
+    yellow: "#ffae00"
+    blue: "#49aeff"
+    magenta: "#f97ea8"
+    cyan: "#00e4c4"
+    white: "#fefefe"
+  normal:
+    black: "#000000"
+    red: "#fc0036"
+    green: "#29a948"
+    yellow: "#ffae00"
+    blue: "#006aff"
+    magenta: "#f32882"
+    cyan: "#00ac96"
+    white: "#feffff"

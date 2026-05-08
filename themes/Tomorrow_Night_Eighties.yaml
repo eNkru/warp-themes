@@ -1,0 +1,25 @@
+name: Tomorrow Night Eighties
+details: "darker"
+accent: "#cccccc"
+background: "#2d2d2d"
+foreground: "#cccccc"
+
+terminal_colors:
+  bright:
+    black: "#595959"
+    red: "#f2777a"
+    green: "#99cc99"
+    yellow: "#ffcc66"
+    blue: "#6699cc"
+    magenta: "#cc99cc"
+    cyan: "#66cccc"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#f2777a"
+    green: "#99cc99"
+    yellow: "#ffcc66"
+    blue: "#6699cc"
+    magenta: "#cc99cc"
+    cyan: "#66cccc"
+    white: "#ffffff"

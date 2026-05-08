@@ -1,0 +1,25 @@
+name: Phala Green Dark
+details: "darker"
+accent: "#c1fc03"
+background: "#000000"
+foreground: "#c1fc03"
+
+terminal_colors:
+  bright:
+    black: "#797979"
+    red: "#ed2200"
+    green: "#00db00"
+    yellow: "#eae700"
+    blue: "#0433ff"
+    magenta: "#ed3aea"
+    cyan: "#00e8ea"
+    white: "#eaeaea"
+  normal:
+    black: "#000000"
+    red: "#ab1500"
+    green: "#00b100"
+    yellow: "#a9a700"
+    blue: "#0223c0"
+    magenta: "#c22ec0"
+    cyan: "#00b4c0"
+    white: "#cbcbcb"

@@ -1,0 +1,25 @@
+name: Elegant
+details: "darker"
+accent: "#00beff"
+background: "#292b31"
+foreground: "#ced2d6"
+
+terminal_colors:
+  bright:
+    black: "#575656"
+    red: "#ff0057"
+    green: "#85cc95"
+    yellow: "#ffcb8b"
+    blue: "#8dabe1"
+    magenta: "#c792eb"
+    cyan: "#3facef"
+    white: "#ffffff"
+  normal:
+    black: "#0a1222"
+    red: "#ff0257"
+    green: "#85cc95"
+    yellow: "#ffcb8b"
+    blue: "#8dabe1"
+    magenta: "#c792eb"
+    cyan: "#78ccf0"
+    white: "#ffffff"

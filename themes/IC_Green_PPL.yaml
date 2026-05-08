@@ -1,0 +1,25 @@
+name: IC Green PPL
+details: "darker"
+accent: "#47fa6b"
+background: "#2c2c2c"
+foreground: "#e0f1dc"
+
+terminal_colors:
+  bright:
+    black: "#106910"
+    red: "#b4fa5c"
+    green: "#aefb86"
+    yellow: "#dafa87"
+    blue: "#2efaeb"
+    magenta: "#50fafa"
+    cyan: "#3cfac8"
+    white: "#e0f1dc"
+  normal:
+    black: "#014401"
+    red: "#ff2736"
+    green: "#41a638"
+    yellow: "#76a831"
+    blue: "#2ec3b9"
+    magenta: "#50a096"
+    cyan: "#3ca078"
+    white: "#e6fef2"

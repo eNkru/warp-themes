@@ -1,0 +1,25 @@
+name: Poimandres Storm
+details: "darker"
+accent: "#ffffff"
+background: "#252b37"
+foreground: "#a6accd"
+
+terminal_colors:
+  bright:
+    black: "#a6accd"
+    red: "#d0679d"
+    green: "#5de4c7"
+    yellow: "#fffac2"
+    blue: "#add7ff"
+    magenta: "#f087bd"
+    cyan: "#add7ff"
+    white: "#ffffff"
+  normal:
+    black: "#252b37"
+    red: "#d0679d"
+    green: "#5de4c7"
+    yellow: "#fffac2"
+    blue: "#89ddff"
+    magenta: "#f087bd"
+    cyan: "#89ddff"
+    white: "#ffffff"

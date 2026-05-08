@@ -1,0 +1,25 @@
+name: Rapture
+details: "darker"
+accent: "#ffffff"
+background: "#111e2a"
+foreground: "#c0c9e5"
+
+terminal_colors:
+  bright:
+    black: "#304b66"
+    red: "#fc644d"
+    green: "#7afde1"
+    yellow: "#fff09b"
+    blue: "#6c9bf5"
+    magenta: "#ff4fa1"
+    cyan: "#64e0ff"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#fc644d"
+    green: "#7afde1"
+    yellow: "#fff09b"
+    blue: "#6c9bf5"
+    magenta: "#ff4fa1"
+    cyan: "#64e0ff"
+    white: "#c0c9e5"

@@ -1,0 +1,25 @@
+name: Cool Night
+details: "darker"
+accent: "#38ff9d"
+background: "#010c18"
+foreground: "#ecdef4"
+
+terminal_colors:
+  bright:
+    black: "#63686d"
+    red: "#ff54b0"
+    green: "#74ffd8"
+    yellow: "#fcf5ae"
+    blue: "#388eff"
+    magenta: "#ae81ff"
+    cyan: "#ff6ad7"
+    white: "#60fbbf"
+  normal:
+    black: "#0b3b61"
+    red: "#ff3a3a"
+    green: "#52ffd0"
+    yellow: "#fff383"
+    blue: "#1376f9"
+    magenta: "#c792ea"
+    cyan: "#ff5ed4"
+    white: "#16fda2"

@@ -1,0 +1,25 @@
+name: Aura Dark
+details: "darker"
+accent: "#a277ff"
+background: "#15141b"
+foreground: "#cdccce"
+
+terminal_colors:
+  bright:
+    black: "#464646"
+    red: "#ffca85"
+    green: "#a277ff"
+    yellow: "#ffca85"
+    blue: "#a277ff"
+    magenta: "#61ffca"
+    cyan: "#61ffca"
+    white: "#edecee"
+  normal:
+    black: "#15141b"
+    red: "#ff6767"
+    green: "#61ffca"
+    yellow: "#ffca85"
+    blue: "#a277ff"
+    magenta: "#61ffca"
+    cyan: "#a277ff"
+    white: "#cdccce"

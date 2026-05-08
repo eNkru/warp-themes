@@ -1,0 +1,25 @@
+name: ENCOM
+details: "darker"
+accent: "#bbbbbb"
+background: "#000000"
+foreground: "#00a595"
+
+terminal_colors:
+  bright:
+    black: "#555555"
+    red: "#ff0000"
+    green: "#00ee00"
+    yellow: "#ffff00"
+    blue: "#0000ff"
+    magenta: "#ff00ff"
+    cyan: "#00cdcd"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#9f0000"
+    green: "#008b00"
+    yellow: "#ffd000"
+    blue: "#0081ff"
+    magenta: "#bc00ca"
+    cyan: "#008b8b"
+    white: "#bbbbbb"

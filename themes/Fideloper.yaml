@@ -1,0 +1,25 @@
+name: Fideloper
+details: "darker"
+accent: "#d4605a"
+background: "#292f33"
+foreground: "#dbdae0"
+
+terminal_colors:
+  bright:
+    black: "#496068"
+    red: "#d4605a"
+    green: "#d4605a"
+    yellow: "#a86671"
+    blue: "#7c85c4"
+    magenta: "#5c5db2"
+    cyan: "#819090"
+    white: "#fcf4df"
+  normal:
+    black: "#292f33"
+    red: "#cb1e2d"
+    green: "#edb8ac"
+    yellow: "#b7ab9b"
+    blue: "#2e78c2"
+    magenta: "#c0236f"
+    cyan: "#309186"
+    white: "#eae3ce"

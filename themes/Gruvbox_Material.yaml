@@ -1,0 +1,25 @@
+name: Gruvbox Material
+details: "darker"
+accent: "#ffffff"
+background: "#1d2021"
+foreground: "#d4be98"
+
+terminal_colors:
+  bright:
+    black: "#4c4c4c"
+    red: "#d3573b"
+    green: "#c1d041"
+    yellow: "#eecf75"
+    blue: "#2c86ff"
+    magenta: "#fd9bc1"
+    cyan: "#92a5df"
+    white: "#ffffff"
+  normal:
+    black: "#141617"
+    red: "#ea6926"
+    green: "#c1d041"
+    yellow: "#eecf75"
+    blue: "#6da3ec"
+    magenta: "#fd9bc1"
+    cyan: "#fe9d6e"
+    white: "#ffffff"

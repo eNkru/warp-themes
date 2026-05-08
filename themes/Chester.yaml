@@ -1,0 +1,25 @@
+name: Chester
+details: "darker"
+accent: "#b4b1b1"
+background: "#2c3643"
+foreground: "#ffffff"
+
+terminal_colors:
+  bright:
+    black: "#6f6b68"
+    red: "#fa5e5b"
+    green: "#16c98d"
+    yellow: "#feef6d"
+    blue: "#278ad6"
+    magenta: "#d34590"
+    cyan: "#27dede"
+    white: "#ffffff"
+  normal:
+    black: "#080200"
+    red: "#fa5e5b"
+    green: "#16c98d"
+    yellow: "#ffc83f"
+    blue: "#288ad6"
+    magenta: "#d34590"
+    cyan: "#28ddde"
+    white: "#e7e7e7"

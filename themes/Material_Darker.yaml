@@ -1,0 +1,25 @@
+name: Material Darker
+details: "darker"
+accent: "#ffffff"
+background: "#212121"
+foreground: "#eeffff"
+
+terminal_colors:
+  bright:
+    black: "#545454"
+    red: "#ff5370"
+    green: "#c3e88d"
+    yellow: "#ffcb6b"
+    blue: "#82aaff"
+    magenta: "#c792ea"
+    cyan: "#89ddff"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#ff5370"
+    green: "#c3e88d"
+    yellow: "#ffcb6b"
+    blue: "#82aaff"
+    magenta: "#c792ea"
+    cyan: "#89ddff"
+    white: "#ffffff"

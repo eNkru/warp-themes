@@ -1,0 +1,25 @@
+name: C64
+details: "darker"
+accent: "#7869c4"
+background: "#40318d"
+foreground: "#7869c4"
+
+terminal_colors:
+  bright:
+    black: "#000000"
+    red: "#a2524c"
+    green: "#55a049"
+    yellow: "#bfce72"
+    blue: "#6657b3"
+    magenta: "#984ca3"
+    cyan: "#67b6bd"
+    white: "#f7f7f7"
+  normal:
+    black: "#090300"
+    red: "#a2524c"
+    green: "#55a049"
+    yellow: "#bfce72"
+    blue: "#6657b3"
+    magenta: "#984ca3"
+    cyan: "#67b6bd"
+    white: "#ffffff"

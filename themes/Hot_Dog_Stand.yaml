@@ -1,0 +1,25 @@
+name: Hot Dog Stand
+details: "darker"
+accent: "#ffff54"
+background: "#ea3323"
+foreground: "#ffffff"
+
+terminal_colors:
+  bright:
+    black: "#000000"
+    red: "#ffff54"
+    green: "#ffff54"
+    yellow: "#ffff54"
+    blue: "#000000"
+    magenta: "#ffff54"
+    cyan: "#ffffff"
+    white: "#c6c6c6"
+  normal:
+    black: "#000000"
+    red: "#ffff54"
+    green: "#ffff54"
+    yellow: "#ffff54"
+    blue: "#000000"
+    magenta: "#ffff54"
+    cyan: "#ffffff"
+    white: "#c6c6c6"

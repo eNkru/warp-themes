@@ -1,0 +1,25 @@
+name: SeedFlip Carbon
+details: "lighter"
+accent: "#000000"
+background: "#fafafa"
+foreground: "#000000"
+
+terminal_colors:
+  bright:
+    black: "#aeaeae"
+    red: "#c65353"
+    green: "#53c679"
+    yellow: "#c6b353"
+    blue: "#5383c6"
+    magenta: "#c653c6"
+    cyan: "#53c6c6"
+    white: "#000000"
+  normal:
+    black: "#d4d4d4"
+    red: "#993333"
+    green: "#339955"
+    yellow: "#998833"
+    blue: "#335d99"
+    magenta: "#993399"
+    cyan: "#339999"
+    white: "#000000"

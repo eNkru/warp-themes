@@ -1,0 +1,25 @@
+name: branch
+details: "darker"
+accent: "#cfc1a9"
+background: "#32221a"
+foreground: "#cfc1a9"
+
+terminal_colors:
+  bright:
+    black: "#564a45"
+    red: "#c2562d"
+    green: "#96a65e"
+    yellow: "#d29b5a"
+    blue: "#3b8e8c"
+    magenta: "#c47e5b"
+    cyan: "#639a90"
+    white: "#cfc1a9"
+  normal:
+    black: "#35241c"
+    red: "#c2562d"
+    green: "#96a65e"
+    yellow: "#d29b5a"
+    blue: "#3b8e8c"
+    magenta: "#c47e5b"
+    cyan: "#639a90"
+    white: "#cfc1a9"

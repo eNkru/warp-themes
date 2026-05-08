@@ -1,0 +1,25 @@
+name: Grass
+details: "darker"
+accent: "#d9744c"
+background: "#13773d"
+foreground: "#fff0a5"
+
+terminal_colors:
+  bright:
+    black: "#959595"
+    red: "#ff5959"
+    green: "#00bb00"
+    yellow: "#e7b000"
+    blue: "#0000bb"
+    magenta: "#ff55ff"
+    cyan: "#55ffff"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#ff5959"
+    green: "#00bb00"
+    yellow: "#e7b000"
+    blue: "#0000a3"
+    magenta: "#ee59bb"
+    cyan: "#00bbbb"
+    white: "#bbbbbb"

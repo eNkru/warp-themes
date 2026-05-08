@@ -1,0 +1,25 @@
+name: traffic
+details: "darker"
+accent: "#cfb9a8"
+background: "#272c30"
+foreground: "#cfb9a8"
+
+terminal_colors:
+  bright:
+    black: "#4e575e"
+    red: "#934e46"
+    green: "#637270"
+    yellow: "#c79e84"
+    blue: "#515e67"
+    magenta: "#715f5e"
+    cyan: "#5c6f7d"
+    white: "#ddcec2"
+  normal:
+    black: "#282d31"
+    red: "#934e46"
+    green: "#637268"
+    yellow: "#c79e84"
+    blue: "#515e67"
+    magenta: "#715f5e"
+    cyan: "#5c6f7d"
+    white: "#cfb9a8"

@@ -1,0 +1,25 @@
+name: Darkermatrix
+details: "darker"
+accent: "#444733"
+background: "#070c0e"
+foreground: "#35451a"
+
+terminal_colors:
+  bright:
+    black: "#404040"
+    red: "#0d452a"
+    green: "#90d762"
+    yellow: "#e2e500"
+    blue: "#00ff87"
+    magenta: "#4e375a"
+    cyan: "#176c73"
+    white: "#00381e"
+  normal:
+    black: "#091013"
+    red: "#1a4831"
+    green: "#6fa64c"
+    yellow: "#595900"
+    blue: "#00cb6b"
+    magenta: "#4e375a"
+    cyan: "#125459"
+    white: "#1a4833"

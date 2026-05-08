@@ -1,0 +1,25 @@
+name: Atom
+details: "darker"
+accent: "#d0d0d0"
+background: "#161719"
+foreground: "#c5c8c6"
+
+terminal_colors:
+  bright:
+    black: "#4c4c4c"
+    red: "#fd5ff1"
+    green: "#94fa36"
+    yellow: "#f5ffa8"
+    blue: "#96cbfe"
+    magenta: "#b9b6fc"
+    cyan: "#85befd"
+    white: "#e0e0e0"
+  normal:
+    black: "#000000"
+    red: "#fd5ff1"
+    green: "#87c38a"
+    yellow: "#ffd7b1"
+    blue: "#85befd"
+    magenta: "#b9b6fc"
+    cyan: "#85befd"
+    white: "#e0e0e0"

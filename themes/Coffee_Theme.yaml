@@ -1,0 +1,25 @@
+name: Coffee Theme
+details: "lighter"
+accent: "#a1a1a1"
+background: "#f5deb3"
+foreground: "#000000"
+
+terminal_colors:
+  bright:
+    black: "#686868"
+    red: "#ff6e67"
+    green: "#1fba28"
+    yellow: "#b2af1b"
+    blue: "#6871ff"
+    magenta: "#f26af2"
+    cyan: "#20bdbf"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#c91b00"
+    green: "#00c200"
+    yellow: "#adaa00"
+    blue: "#0225c7"
+    magenta: "#ca30c7"
+    cyan: "#00b8ba"
+    white: "#a1a1a1"

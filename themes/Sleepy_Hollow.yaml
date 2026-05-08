@@ -1,0 +1,25 @@
+name: Sleepy Hollow
+details: "darker"
+accent: "#af9a91"
+background: "#121214"
+foreground: "#af9a91"
+
+terminal_colors:
+  bright:
+    black: "#4e4b61"
+    red: "#d9443f"
+    green: "#d6b04e"
+    yellow: "#f66813"
+    blue: "#8086ef"
+    magenta: "#e2c2bb"
+    cyan: "#a4dce7"
+    white: "#d2c7a9"
+  normal:
+    black: "#572100"
+    red: "#ba3934"
+    green: "#91773f"
+    yellow: "#b55600"
+    blue: "#5f63b4"
+    magenta: "#a17c7b"
+    cyan: "#8faea9"
+    white: "#af9a91"

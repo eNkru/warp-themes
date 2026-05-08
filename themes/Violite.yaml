@@ -1,0 +1,25 @@
+name: Violite
+details: "darker"
+accent: "#eef4f6"
+background: "#241c36"
+foreground: "#eef4f6"
+
+terminal_colors:
+  bright:
+    black: "#56447a"
+    red: "#ef8f8f"
+    green: "#9fefbf"
+    yellow: "#efe78f"
+    blue: "#b78fef"
+    magenta: "#ef8fcf"
+    cyan: "#9fefef"
+    white: "#f8fafc"
+  normal:
+    black: "#241c36"
+    red: "#ec7979"
+    green: "#79ecb3"
+    yellow: "#ece279"
+    blue: "#a979ec"
+    magenta: "#ec79ec"
+    cyan: "#79ecec"
+    white: "#eef4f6"

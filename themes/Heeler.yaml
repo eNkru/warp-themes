@@ -1,0 +1,25 @@
+name: Heeler
+details: "darker"
+accent: "#ffffff"
+background: "#211f46"
+foreground: "#fdfdfd"
+
+terminal_colors:
+  bright:
+    black: "#4c4c4c"
+    red: "#e44c2e"
+    green: "#bdd100"
+    yellow: "#f4ce65"
+    blue: "#0088ff"
+    magenta: "#ff95c2"
+    cyan: "#8da6e4"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#e44c2e"
+    green: "#bdd100"
+    yellow: "#f4ce65"
+    blue: "#5ba5f2"
+    magenta: "#ff95c2"
+    cyan: "#ff9763"
+    white: "#ffffff"

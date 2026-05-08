@@ -1,0 +1,25 @@
+name: Harper
+details: "darker"
+accent: "#a8a49d"
+background: "#010101"
+foreground: "#a8a49d"
+
+terminal_colors:
+  bright:
+    black: "#726e6a"
+    red: "#f8b63f"
+    green: "#7fb5e1"
+    yellow: "#d6da25"
+    blue: "#489e48"
+    magenta: "#b296c6"
+    cyan: "#f5bfd7"
+    white: "#fefbea"
+  normal:
+    black: "#010101"
+    red: "#f8b63f"
+    green: "#7fb5e1"
+    yellow: "#d6da25"
+    blue: "#489e48"
+    magenta: "#b296c6"
+    cyan: "#f5bfd7"
+    white: "#a8a49d"

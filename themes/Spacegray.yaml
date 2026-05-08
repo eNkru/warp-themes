@@ -1,0 +1,25 @@
+name: Spacegray
+details: "darker"
+accent: "#b3b8c3"
+background: "#20242d"
+foreground: "#b3b8c3"
+
+terminal_colors:
+  bright:
+    black: "#4c4c4c"
+    red: "#b04b57"
+    green: "#87b379"
+    yellow: "#e5c179"
+    blue: "#7d8fa4"
+    magenta: "#a47996"
+    cyan: "#85a7a5"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#b04b57"
+    green: "#87b379"
+    yellow: "#e5c179"
+    blue: "#7d8fa4"
+    magenta: "#a47996"
+    cyan: "#85a7a5"
+    white: "#b3b8c3"

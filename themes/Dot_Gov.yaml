@@ -1,0 +1,25 @@
+name: Dot Gov
+details: "darker"
+accent: "#d9002f"
+background: "#262c35"
+foreground: "#ebebeb"
+
+terminal_colors:
+  bright:
+    black: "#595959"
+    red: "#bf091d"
+    green: "#3d9751"
+    yellow: "#f6bb34"
+    blue: "#17b2e0"
+    magenta: "#7830b0"
+    cyan: "#8bd2ed"
+    white: "#ffffff"
+  normal:
+    black: "#191919"
+    red: "#bf091d"
+    green: "#3d9751"
+    yellow: "#f6bb34"
+    blue: "#17b2e0"
+    magenta: "#7830b0"
+    cyan: "#8bd2ed"
+    white: "#ffffff"

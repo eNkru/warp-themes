@@ -1,0 +1,25 @@
+name: Obsidian
+details: "darker"
+accent: "#c0cad0"
+background: "#283033"
+foreground: "#cdcdcd"
+
+terminal_colors:
+  bright:
+    black: "#555555"
+    red: "#ff0003"
+    green: "#93c863"
+    yellow: "#fef874"
+    blue: "#a1d7ff"
+    magenta: "#ff55ff"
+    cyan: "#55ffff"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#b30d0e"
+    green: "#00bb00"
+    yellow: "#fecd22"
+    blue: "#3a9bdb"
+    magenta: "#bb00bb"
+    cyan: "#00bbbb"
+    white: "#bbbbbb"

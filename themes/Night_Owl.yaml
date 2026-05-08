@@ -1,0 +1,25 @@
+name: Night Owl
+details: "darker"
+accent: "#7e57c2"
+background: "#011627"
+foreground: "#d6deeb"
+
+terminal_colors:
+  bright:
+    black: "#575656"
+    red: "#ef5350"
+    green: "#22da6e"
+    yellow: "#ffeb95"
+    blue: "#82aaff"
+    magenta: "#c792ea"
+    cyan: "#7fdbca"
+    white: "#ffffff"
+  normal:
+    black: "#011627"
+    red: "#ef5350"
+    green: "#22da6e"
+    yellow: "#addb67"
+    blue: "#82aaff"
+    magenta: "#c792ea"
+    cyan: "#21c7a8"
+    white: "#ffffff"

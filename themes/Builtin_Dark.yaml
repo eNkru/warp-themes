@@ -1,0 +1,25 @@
+name: Builtin Dark
+details: "darker"
+accent: "#bbbbbb"
+background: "#000000"
+foreground: "#bbbbbb"
+
+terminal_colors:
+  bright:
+    black: "#555555"
+    red: "#ff5555"
+    green: "#55ff55"
+    yellow: "#ffff55"
+    blue: "#5555ff"
+    magenta: "#ff55ff"
+    cyan: "#55ffff"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#bb0000"
+    green: "#00bb00"
+    yellow: "#bbbb00"
+    blue: "#0d0dc8"
+    magenta: "#bb00bb"
+    cyan: "#00bbbb"
+    white: "#bbbbbb"

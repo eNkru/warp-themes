@@ -1,0 +1,25 @@
+name: Monokai Pro Light
+details: "lighter"
+accent: "#706b6e"
+background: "#faf4f2"
+foreground: "#29242a"
+
+terminal_colors:
+  bright:
+    black: "#a59fa0"
+    red: "#e14775"
+    green: "#269d69"
+    yellow: "#cc7a0a"
+    blue: "#e16032"
+    magenta: "#7058be"
+    cyan: "#1c8ca8"
+    white: "#29242a"
+  normal:
+    black: "#faf4f2"
+    red: "#e14775"
+    green: "#269d69"
+    yellow: "#cc7a0a"
+    blue: "#e16032"
+    magenta: "#7058be"
+    cyan: "#1c8ca8"
+    white: "#29242a"

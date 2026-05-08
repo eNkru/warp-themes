@@ -1,0 +1,25 @@
+name: Squirrelsong Dark
+details: "darker"
+accent: "#b19b89"
+background: "#372920"
+foreground: "#b19b89"
+
+terminal_colors:
+  bright:
+    black: "#704f39"
+    red: "#df4d43"
+    green: "#659a4c"
+    yellow: "#e8c23f"
+    blue: "#4ca4db"
+    magenta: "#9d70da"
+    cyan: "#60aca9"
+    white: "#f2d4bb"
+  normal:
+    black: "#372920"
+    red: "#ba4138"
+    green: "#468336"
+    yellow: "#d4b139"
+    blue: "#4395c6"
+    magenta: "#855fb8"
+    cyan: "#2f9794"
+    white: "#d3b9a2"

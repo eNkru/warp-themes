@@ -1,0 +1,25 @@
+name: Oxocarbon
+details: "darker"
+accent: "#ffffff"
+background: "#161616"
+foreground: "#f2f4f8"
+
+terminal_colors:
+  bright:
+    black: "#585858"
+    red: "#00dfdb"
+    green: "#00b4ff"
+    yellow: "#ff4297"
+    blue: "#00c15a"
+    magenta: "#c693ff"
+    cyan: "#ff74b8"
+    white: "#f2f4f8"
+  normal:
+    black: "#161616"
+    red: "#00dfdb"
+    green: "#00b4ff"
+    yellow: "#ff4297"
+    blue: "#00c15a"
+    magenta: "#c693ff"
+    cyan: "#ff74b8"
+    white: "#f2f4f8"

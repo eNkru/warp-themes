@@ -1,0 +1,25 @@
+name: GitHub Dark
+details: "darker"
+accent: "#c9d1d9"
+background: "#101216"
+foreground: "#8b949e"
+
+terminal_colors:
+  bright:
+    black: "#4d4d4d"
+    red: "#f78166"
+    green: "#56d364"
+    yellow: "#e3b341"
+    blue: "#6ca4f8"
+    magenta: "#db61a2"
+    cyan: "#2b7489"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#f78166"
+    green: "#56d364"
+    yellow: "#e3b341"
+    blue: "#6ca4f8"
+    magenta: "#db61a2"
+    cyan: "#2b7489"
+    white: "#ffffff"

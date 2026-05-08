@@ -1,0 +1,25 @@
+name: Poimandres Darker
+details: "darker"
+accent: "#ffffff"
+background: "#16161e"
+foreground: "#a6accd"
+
+terminal_colors:
+  bright:
+    black: "#a6accd"
+    red: "#d0679d"
+    green: "#5de4c7"
+    yellow: "#fffac2"
+    blue: "#add7ff"
+    magenta: "#fae4fc"
+    cyan: "#89ddff"
+    white: "#ffffff"
+  normal:
+    black: "#16161e"
+    red: "#d0679d"
+    green: "#5de4c7"
+    yellow: "#fffac2"
+    blue: "#89ddff"
+    magenta: "#fcc5e9"
+    cyan: "#add7ff"
+    white: "#ffffff"

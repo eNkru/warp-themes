@@ -1,0 +1,25 @@
+name: Highway
+details: "darker"
+accent: "#e0d9b9"
+background: "#222225"
+foreground: "#ededed"
+
+terminal_colors:
+  bright:
+    black: "#5d504a"
+    red: "#f07e18"
+    green: "#b1d130"
+    yellow: "#fff120"
+    blue: "#4fc2fd"
+    magenta: "#de0071"
+    cyan: "#5d504a"
+    white: "#ffffff"
+  normal:
+    black: "#000000"
+    red: "#d00e18"
+    green: "#138034"
+    yellow: "#ffcb3e"
+    blue: "#006bb3"
+    magenta: "#783482"
+    cyan: "#455271"
+    white: "#ededed"

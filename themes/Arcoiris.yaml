@@ -1,0 +1,25 @@
+name: Arcoiris
+details: "darker"
+accent: "#872929"
+background: "#201f1e"
+foreground: "#eee4d9"
+
+terminal_colors:
+  bright:
+    black: "#777777"
+    red: "#ffb9b9"
+    green: "#e3f6aa"
+    yellow: "#ffddaa"
+    blue: "#b3e8f3"
+    magenta: "#cbbaf9"
+    cyan: "#bcffc7"
+    white: "#efefef"
+  normal:
+    black: "#333333"
+    red: "#da2700"
+    green: "#12c258"
+    yellow: "#ffc656"
+    blue: "#518bfc"
+    magenta: "#e37bd9"
+    cyan: "#63fad5"
+    white: "#bab2b2"

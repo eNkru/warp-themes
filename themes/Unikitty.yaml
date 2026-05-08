@@ -1,0 +1,25 @@
+name: Unikitty
+details: "lighter"
+accent: "#c7ff98"
+background: "#ff8cd9"
+foreground: "#0b0b0b"
+
+terminal_colors:
+  bright:
+    black: "#434343"
+    red: "#d91329"
+    green: "#d3ffaf"
+    yellow: "#ffef50"
+    blue: "#0075ea"
+    magenta: "#ffefff"
+    cyan: "#93ffef"
+    white: "#fff3fe"
+  normal:
+    black: "#0c0c0c"
+    red: "#a80f20"
+    green: "#c7ff98"
+    yellow: "#fff964"
+    blue: "#145fcd"
+    magenta: "#ffe9ff"
+    cyan: "#9effef"
+    white: "#fcf1fb"

@@ -1,0 +1,25 @@
+name: Firewatch
+details: "darker"
+accent: "#f6f7ec"
+background: "#1e2027"
+foreground: "#9ba2b2"
+
+terminal_colors:
+  bright:
+    black: "#585f6d"
+    red: "#d95360"
+    green: "#5ab977"
+    yellow: "#dfb563"
+    blue: "#4c89c5"
+    magenta: "#d55119"
+    cyan: "#44a8b6"
+    white: "#e6e5ff"
+  normal:
+    black: "#585f6d"
+    red: "#d95360"
+    green: "#5ab977"
+    yellow: "#dfb563"
+    blue: "#4d89c4"
+    magenta: "#d55119"
+    cyan: "#44a8b6"
+    white: "#e6e5ff"

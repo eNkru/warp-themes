@@ -1,0 +1,25 @@
+name: Galizur
+details: "darker"
+accent: "#ddeeff"
+background: "#071317"
+foreground: "#ddeeff"
+
+terminal_colors:
+  bright:
+    black: "#556677"
+    red: "#ff1133"
+    green: "#33ff11"
+    yellow: "#ffdd33"
+    blue: "#3377ff"
+    magenta: "#aa77ff"
+    cyan: "#33ddff"
+    white: "#bbccdd"
+  normal:
+    black: "#223344"
+    red: "#aa1122"
+    green: "#33aa11"
+    yellow: "#ccaa22"
+    blue: "#2255cc"
+    magenta: "#7755aa"
+    cyan: "#22bbdd"
+    white: "#8899aa"

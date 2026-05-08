@@ -1,0 +1,25 @@
+name: Belafonte Day
+details: "lighter"
+accent: "#45373c"
+background: "#d5ccba"
+foreground: "#45373c"
+
+terminal_colors:
+  bright:
+    black: "#5e5252"
+    red: "#be100e"
+    green: "#858162"
+    yellow: "#d08b30"
+    blue: "#426a79"
+    magenta: "#97522c"
+    cyan: "#989a9c"
+    white: "#d5ccba"
+  normal:
+    black: "#20111b"
+    red: "#be100e"
+    green: "#858162"
+    yellow: "#d08b30"
+    blue: "#426a79"
+    magenta: "#97522c"
+    cyan: "#989a9c"
+    white: "#968c83"
